@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/programs/mba/academic-experience/global-experiences",
+  "requestedUrl": "https://www.gsb.stanford.edu/programs/mba/academic-experience/global-experiences",
+  "timestamp": 1661609370377,
+  "ranks": {
+    "hundos": 2,
+    "performance": 6,
+    "accessibility": 1,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.33,
+    "accessibility": 1,
+    "bestPractices": 0.92,
+    "seo": 0.93,
+    "total": 318
+  },
+  "firstContentfulPaint": 3051.9889999999987,
+  "firstMeaningfulPaint": 6305.4805,
+  "speedIndex": 15206.894380211796,
+  "largestContentfulPaint": 3956.776999999998,
+  "totalBlockingTime": 9990.425000000008,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 29616.46850000001,
+  "maxPotentialFirstInputDelay": 2373.0000000000073,
+  "timeToFirstByte": 36.33800000000001,
+  "weight": {
+    "summary": "298 requests • 3,992 KiB",
+    "total": 4088170,
+    "image": 326695,
+    "imageCount": 47,
+    "script": 3139990,
+    "scriptCount": 61,
+    "document": 160059,
+    "font": 206007,
+    "fontCount": 33,
+    "stylesheet": 211897,
+    "stylesheetCount": 111,
+    "thirdParty": 3532627,
+    "thirdPartyCount": 169
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 13,
+    "+weight.total": 1,
+    "-weight.document": 13,
+    "+weight.document": 1,
+    "-weight.script": 13,
+    "+weight.script": 1,
+    "-weight.image": 11,
+    "+weight.image": 3,
+    "-weight.font": 13,
+    "+weight.font": 1,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 12,
+    "-totalBlockingTime": 13,
+    "-largestContentfulPaint": 6
+  },
+  "axe": {
+    "passes": 1180,
+    "violations": 18
+  }
+}

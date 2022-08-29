@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/insights/work-jerk-heres-how-survive",
+  "requestedUrl": "https://www.gsb.stanford.edu/insights/work-jerk-heres-how-survive",
+  "timestamp": 1661775078257,
+  "ranks": {
+    "hundos": 5,
+    "performance": 4,
+    "accessibility": 3,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.31,
+    "accessibility": 1,
+    "bestPractices": 0.92,
+    "seo": 0.86,
+    "total": 309
+  },
+  "firstContentfulPaint": 3244.9069999999997,
+  "firstMeaningfulPaint": 3244.9069999999997,
+  "speedIndex": 11934.7620616858,
+  "largestContentfulPaint": 4152.6849999999995,
+  "totalBlockingTime": 4610.500000000001,
+  "cumulativeLayoutShift": 0.030971679687500003,
+  "timeToInteractive": 23927.195499999998,
+  "maxPotentialFirstInputDelay": 1341,
+  "timeToFirstByte": 31.068000000000012,
+  "weight": {
+    "summary": "243 requests • 2,667 KiB",
+    "total": 2731436,
+    "image": 124185,
+    "imageCount": 43,
+    "script": 2113983,
+    "scriptCount": 50,
+    "document": 130910,
+    "font": 137263,
+    "fontCount": 7,
+    "stylesheet": 182978,
+    "stylesheetCount": 101,
+    "thirdParty": 2212140,
+    "thirdPartyCount": 116
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 10,
+    "+weight.total": 4,
+    "-weight.document": 11,
+    "+weight.document": 3,
+    "-weight.script": 10,
+    "+weight.script": 4,
+    "-weight.image": 6,
+    "+weight.image": 8,
+    "-weight.font": 12,
+    "+weight.font": 2,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 6,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 3
+  },
+  "axe": {
+    "passes": 1402,
+    "violations": 23
+  }
+}

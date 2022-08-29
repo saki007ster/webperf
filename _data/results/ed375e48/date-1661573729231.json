@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nestle.com/",
+  "requestedUrl": "https://www.nestle.com/",
+  "timestamp": 1661576637633,
+  "ranks": {
+    "hundos": 7,
+    "performance": 10,
+    "accessibility": 9,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.21,
+    "accessibility": 0.83,
+    "bestPractices": 1,
+    "seo": 0.89,
+    "total": 293
+  },
+  "firstContentfulPaint": 3253.135,
+  "firstMeaningfulPaint": 3253.135,
+  "speedIndex": 9605.080577927492,
+  "largestContentfulPaint": 12780.654000000002,
+  "totalBlockingTime": 2039.4399999999996,
+  "cumulativeLayoutShift": 0.09838830269707573,
+  "timeToInteractive": 17141.672000000006,
+  "maxPotentialFirstInputDelay": 883,
+  "timeToFirstByte": 185.09300000000002,
+  "weight": {
+    "summary": "87 requests • 3,018 KiB",
+    "total": 3090420,
+    "image": 1875352,
+    "imageCount": 48,
+    "script": 642388,
+    "scriptCount": 25,
+    "document": 61063,
+    "font": 290962,
+    "fontCount": 5,
+    "stylesheet": 219829,
+    "stylesheetCount": 6,
+    "thirdParty": 540948,
+    "thirdPartyCount": 24
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 8,
+    "+weight.total": 5,
+    "-weight.document": 7,
+    "+weight.document": 6,
+    "-weight.script": 7,
+    "+weight.script": 6,
+    "-weight.image": 11,
+    "+weight.image": 2,
+    "-weight.font": 10,
+    "+weight.font": 2,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "passes": 1543,
+    "violations": 25
+  }
+}

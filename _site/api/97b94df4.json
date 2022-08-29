@@ -1,0 +1,73 @@
+{
+  "url": "https://www.gsb.stanford.edu/insights/class-takeaways-how-lead-through-workplace-culture",
+  "requestedUrl": "https://www.gsb.stanford.edu/insights/class-takeaways-how-lead-through-workplace-culture",
+  "timestamp": 1661775108293,
+  "ranks": {
+    "hundos": 6,
+    "performance": 3,
+    "accessibility": 5,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.32,
+    "accessibility": 0.99,
+    "bestPractices": 0.92,
+    "seo": 0.86,
+    "total": 309
+  },
+  "firstContentfulPaint": 3083.6059999999998,
+  "firstMeaningfulPaint": 3235.1059999999998,
+  "speedIndex": 10967.164025756267,
+  "largestContentfulPaint": 4126.360999999999,
+  "totalBlockingTime": 5007.746999999999,
+  "cumulativeLayoutShift": 0.010042317708333333,
+  "timeToInteractive": 22573.018000000004,
+  "maxPotentialFirstInputDelay": 1336,
+  "timeToFirstByte": 31.242000000000004,
+  "weight": {
+    "summary": "238 requests • 2,666 KiB",
+    "total": 2729659,
+    "image": 127050,
+    "imageCount": 42,
+    "script": 2113489,
+    "scriptCount": 50,
+    "document": 129504,
+    "font": 137190,
+    "fontCount": 7,
+    "stylesheet": 181090,
+    "stylesheetCount": 98,
+    "thirdParty": 2306057,
+    "thirdPartyCount": 115
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 9,
+    "+weight.total": 5,
+    "-weight.document": 9,
+    "+weight.document": 5,
+    "-weight.script": 9,
+    "+weight.script": 5,
+    "-weight.image": 7,
+    "+weight.image": 7,
+    "-weight.font": 11,
+    "+weight.font": 3,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 10,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 1346,
+    "violations": 24
+  },
+  "previousRanks": {
+    "hundos": 6,
+    "performance": 5,
+    "accessibility": 5,
+    "cumulative": 6
+  }
+}

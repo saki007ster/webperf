@@ -1,0 +1,73 @@
+{
+  "url": "https://www.ashoka.org/en-us",
+  "requestedUrl": "https://www.ashoka.org/en-us",
+  "timestamp": 1661777037859,
+  "ranks": {
+    "hundos": 2,
+    "performance": 1,
+    "accessibility": 11,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.78,
+    "accessibility": 0.61,
+    "bestPractices": 1,
+    "seo": 0.84,
+    "total": 323
+  },
+  "firstContentfulPaint": 1428.9270000000001,
+  "firstMeaningfulPaint": 2949.806,
+  "speedIndex": 3196.503174599988,
+  "largestContentfulPaint": 2896.123,
+  "totalBlockingTime": 275.49999999999955,
+  "cumulativeLayoutShift": 0.2418920389811198,
+  "timeToInteractive": 5338.343499999999,
+  "maxPotentialFirstInputDelay": 479.0000000000001,
+  "timeToFirstByte": 227.20200000000003,
+  "weight": {
+    "summary": "35 requests • 1,239 KiB",
+    "total": 1268701,
+    "image": 828583,
+    "imageCount": 22,
+    "script": 85525,
+    "scriptCount": 4,
+    "document": 20559,
+    "font": 292297,
+    "fontCount": 5,
+    "stylesheet": 41503,
+    "stylesheetCount": 2,
+    "thirdParty": 5434,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 10,
+    "-weight.document": 2,
+    "+weight.document": 10,
+    "-weight.script": 1,
+    "+weight.script": 11,
+    "-weight.image": 6,
+    "+weight.image": 6,
+    "-weight.font": 11,
+    "+weight.font": 1,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 8,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 1374,
+    "violations": 75
+  },
+  "previousRanks": {
+    "hundos": 4,
+    "performance": 2,
+    "accessibility": 11,
+    "cumulative": 4
+  }
+}

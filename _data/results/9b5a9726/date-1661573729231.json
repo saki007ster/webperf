@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/experience/news-history",
+  "requestedUrl": "https://www.gsb.stanford.edu/experience/news-history",
+  "timestamp": 1661575105229,
+  "ranks": {
+    "hundos": 7,
+    "performance": 9,
+    "accessibility": 7,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.21,
+    "accessibility": 0.98,
+    "bestPractices": 0.92,
+    "seo": 0.93,
+    "total": 304
+  },
+  "firstContentfulPaint": 3318.448,
+  "firstMeaningfulPaint": 3318.448,
+  "speedIndex": 9031.786834592986,
+  "largestContentfulPaint": 14479.737999999998,
+  "totalBlockingTime": 3668.999999999999,
+  "cumulativeLayoutShift": 0.05290876388549805,
+  "timeToInteractive": 17946.146500000003,
+  "maxPotentialFirstInputDelay": 1886.9999999999982,
+  "timeToFirstByte": 33.32300000000001,
+  "weight": {
+    "summary": "216 requests • 1,763 KiB",
+    "total": 1804861,
+    "image": 68682,
+    "imageCount": 38,
+    "script": 1356175,
+    "scriptCount": 40,
+    "document": 108568,
+    "font": 101303,
+    "fontCount": 5,
+    "stylesheet": 158895,
+    "stylesheetCount": 101,
+    "thirdParty": 1295170,
+    "thirdPartyCount": 91
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 10,
+    "-weight.document": 5,
+    "+weight.document": 9,
+    "-weight.script": 4,
+    "+weight.script": 10,
+    "-weight.image": 4,
+    "+weight.image": 10,
+    "-weight.font": 1,
+    "+weight.font": 13,
+    "+weight.fontCount": 5,
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 11
+  },
+  "axe": {
+    "passes": 1078,
+    "violations": 38
+  }
+}

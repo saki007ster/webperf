@@ -1,0 +1,73 @@
+{
+  "url": "https://www.gsb.stanford.edu/insights/utility-player-paul-oyer-explains-how-economics-can-make-sports-more-fun",
+  "requestedUrl": "https://www.gsb.stanford.edu/insights/utility-player-paul-oyer-explains-how-economics-can-make-sports-more-fun",
+  "timestamp": 1661775525160,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 2,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.41,
+    "accessibility": 1,
+    "bestPractices": 0.92,
+    "seo": 0.86,
+    "total": 319
+  },
+  "firstContentfulPaint": 2946.43,
+  "firstMeaningfulPaint": 2946.43,
+  "speedIndex": 6573.135085219064,
+  "largestContentfulPaint": 3641.4019999999996,
+  "totalBlockingTime": 2357.5,
+  "cumulativeLayoutShift": 0.00026855468749999997,
+  "timeToInteractive": 17922.217000000008,
+  "maxPotentialFirstInputDelay": 1210,
+  "timeToFirstByte": 34.05799999999999,
+  "weight": {
+    "summary": "218 requests • 1,980 KiB",
+    "total": 2027670,
+    "image": 246502,
+    "imageCount": 40,
+    "script": 1405881,
+    "scriptCount": 43,
+    "document": 104669,
+    "font": 125723,
+    "fontCount": 6,
+    "stylesheet": 133493,
+    "stylesheetCount": 96,
+    "thirdParty": 1373852,
+    "thirdPartyCount": 98
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 6,
+    "+weight.total": 8,
+    "-weight.document": 3,
+    "+weight.document": 11,
+    "-weight.script": 6,
+    "+weight.script": 8,
+    "-weight.image": 10,
+    "+weight.image": 4,
+    "-weight.font": 7,
+    "+weight.font": 7,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 10,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 1221,
+    "violations": 21
+  },
+  "previousRanks": {
+    "hundos": 3,
+    "performance": 1,
+    "accessibility": 2,
+    "cumulative": 3
+  }
+}

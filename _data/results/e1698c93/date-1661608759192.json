@@ -1,0 +1,67 @@
+{
+  "url": "https://www.qed42.com/work/migration-design-system-implementation-for-stanford-graduate-school-of-business",
+  "requestedUrl": "https://www.qed42.com/work/migration-design-system-implementation-for-stanford-graduate-school-of-business",
+  "timestamp": 1661610786832,
+  "ranks": {
+    "hundos": 2,
+    "performance": 5,
+    "accessibility": 1,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.3,
+    "accessibility": 0.97,
+    "bestPractices": 0.75,
+    "seo": 0.93,
+    "total": 295
+  },
+  "firstContentfulPaint": 2453.9349999999995,
+  "firstMeaningfulPaint": 2453.9349999999995,
+  "speedIndex": 13119.264453424465,
+  "largestContentfulPaint": 4018.367999999999,
+  "totalBlockingTime": 1709.6120000000046,
+  "cumulativeLayoutShift": 0.26723876953125003,
+  "timeToInteractive": 24705.809500000014,
+  "maxPotentialFirstInputDelay": 1020,
+  "timeToFirstByte": 74.63399999999999,
+  "weight": {
+    "summary": "195 requests • 5,643 KiB",
+    "total": 5778842,
+    "image": 4741730,
+    "imageCount": 29,
+    "script": 721754,
+    "scriptCount": 58,
+    "document": 43284,
+    "font": 123947,
+    "fontCount": 5,
+    "stylesheet": 131020,
+    "stylesheetCount": 81,
+    "thirdParty": 699281,
+    "thirdPartyCount": 64
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 6,
+    "+weight.total": 2,
+    "-weight.document": 6,
+    "+weight.document": 2,
+    "-weight.script": 5,
+    "+weight.script": 3,
+    "-weight.image": 6,
+    "+weight.image": 2,
+    "-weight.font": 3,
+    "+weight.font": 5,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 5,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 4
+  },
+  "axe": {
+    "passes": 1163,
+    "violations": 21
+  }
+}

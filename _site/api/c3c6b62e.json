@@ -1,0 +1,73 @@
+{
+  "url": "https://www.gsb.stanford.edu/faculty-research/faculty/amit-seru",
+  "requestedUrl": "https://www.gsb.stanford.edu/faculty-research/faculty/amit-seru",
+  "timestamp": 1661774925284,
+  "ranks": {
+    "hundos": 12,
+    "performance": 10,
+    "accessibility": 10,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.21,
+    "accessibility": 0.87,
+    "bestPractices": 0.83,
+    "seo": 0.78,
+    "total": 269
+  },
+  "firstContentfulPaint": 3081.1660000000006,
+  "firstMeaningfulPaint": 3102.0335000000005,
+  "speedIndex": 9854.14447652467,
+  "largestContentfulPaint": 13663.063,
+  "totalBlockingTime": 4413.500000000002,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 17570.306000000004,
+  "maxPotentialFirstInputDelay": 1938.0000000000018,
+  "timeToFirstByte": 77.733,
+  "weight": {
+    "summary": "187 requests • 1,684 KiB",
+    "total": 1724151,
+    "image": 27393,
+    "imageCount": 39,
+    "script": 1331625,
+    "scriptCount": 38,
+    "document": 113840,
+    "font": 125703,
+    "fontCount": 6,
+    "stylesheet": 114298,
+    "stylesheetCount": 72,
+    "thirdParty": 1295466,
+    "thirdPartyCount": 91
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 12,
+    "-weight.document": 7,
+    "+weight.document": 7,
+    "-weight.script": 1,
+    "+weight.script": 13,
+    "-weight.image": 2,
+    "+weight.image": 12,
+    "-weight.font": 6,
+    "+weight.font": 8,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 13,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 11
+  },
+  "axe": {
+    "passes": 1846,
+    "violations": 21
+  },
+  "previousRanks": {
+    "hundos": 12,
+    "performance": 9,
+    "accessibility": 10,
+    "cumulative": 12
+  }
+}
