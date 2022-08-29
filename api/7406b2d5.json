@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/business-podcasts/all-else-equal-making-better-decisions",
+  "requestedUrl": "https://www.gsb.stanford.edu/business-podcasts/all-else-equal-making-better-decisions",
+  "timestamp": 1661812005988,
+  "ranks": {
+    "hundos": 9,
+    "performance": 13,
+    "accessibility": 9,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.23,
+    "accessibility": 0.93,
+    "bestPractices": 0.92,
+    "seo": 0.92,
+    "total": 300
+  },
+  "firstContentfulPaint": 3268.0330000000004,
+  "firstMeaningfulPaint": 3268.0330000000004,
+  "speedIndex": 15373.324852887472,
+  "largestContentfulPaint": 13601.117499999998,
+  "totalBlockingTime": 1745,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 17880.636499999997,
+  "maxPotentialFirstInputDelay": 1185,
+  "timeToFirstByte": 3772.829,
+  "weight": {
+    "summary": "240 requests • 2,081 KiB",
+    "total": 2130900,
+    "image": 231306,
+    "imageCount": 51,
+    "script": 1468630,
+    "scriptCount": 44,
+    "document": 99842,
+    "font": 135930,
+    "fontCount": 7,
+    "stylesheet": 179203,
+    "stylesheetCount": 101,
+    "thirdParty": 1551263,
+    "thirdPartyCount": 112
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 7,
+    "-weight.document": 1,
+    "+weight.document": 13,
+    "-weight.script": 7,
+    "+weight.script": 7,
+    "-weight.image": 9,
+    "+weight.image": 5,
+    "-weight.font": 10,
+    "+weight.font": 4,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 11,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "passes": 1148,
+    "violations": 17
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.qed42.com/contact",
+  "requestedUrl": "https://www.qed42.com/contact",
+  "timestamp": 1661812956648,
+  "ranks": {
+    "hundos": 5,
+    "performance": 3,
+    "accessibility": 2,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.46,
+    "accessibility": 0.97,
+    "bestPractices": 0.67,
+    "seo": 0.86,
+    "total": 296
+  },
+  "firstContentfulPaint": 2145.996,
+  "firstMeaningfulPaint": 2145.996,
+  "speedIndex": 5683.591074318381,
+  "largestContentfulPaint": 2907.8145000000004,
+  "totalBlockingTime": 1332.5,
+  "cumulativeLayoutShift": 0.2774536743164063,
+  "timeToInteractive": 12832.259999999998,
+  "maxPotentialFirstInputDelay": 546,
+  "timeToFirstByte": 33.28,
+  "weight": {
+    "summary": "185 requests • 1,474 KiB",
+    "total": 1509649,
+    "image": 484652,
+    "imageCount": 23,
+    "script": 715705,
+    "scriptCount": 59,
+    "document": 39361,
+    "font": 123959,
+    "fontCount": 5,
+    "stylesheet": 127713,
+    "stylesheetCount": 77,
+    "thirdParty": 698943,
+    "thirdPartyCount": 64
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 4,
+    "-weight.document": 4,
+    "+weight.document": 4,
+    "-weight.script": 4,
+    "+weight.script": 4,
+    "-weight.image": 4,
+    "+weight.image": 4,
+    "-weight.font": 4,
+    "+weight.font": 4,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 85,
+    "violations": 4
+  }
+}

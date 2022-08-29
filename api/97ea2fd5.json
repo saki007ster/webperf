@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/faculty-research/faculty/laura-arrillaga-andreessen",
+  "requestedUrl": "https://www.gsb.stanford.edu/faculty-research/faculty/laura-arrillaga-andreessen",
+  "timestamp": 1661812229157,
+  "ranks": {
+    "hundos": 12,
+    "performance": 9,
+    "accessibility": 11,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.29,
+    "accessibility": 0.87,
+    "bestPractices": 0.83,
+    "seo": 0.79,
+    "total": 278
+  },
+  "firstContentfulPaint": 2662.8530000000005,
+  "firstMeaningfulPaint": 2662.8530000000005,
+  "speedIndex": 8796.7495981203,
+  "largestContentfulPaint": 11209.919000000002,
+  "totalBlockingTime": 1245.9999999999995,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 15607.6175,
+  "maxPotentialFirstInputDelay": 686,
+  "timeToFirstByte": 18.323,
+  "weight": {
+    "summary": "186 requests • 1,677 KiB",
+    "total": 1717472,
+    "image": 26739,
+    "imageCount": 38,
+    "script": 1331633,
+    "scriptCount": 38,
+    "document": 107018,
+    "font": 125676,
+    "fontCount": 6,
+    "stylesheet": 114896,
+    "stylesheetCount": 72,
+    "thirdParty": 1295553,
+    "thirdPartyCount": 91
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 13,
+    "-weight.document": 4,
+    "+weight.document": 10,
+    "-weight.script": 1,
+    "+weight.script": 13,
+    "-weight.image": 1,
+    "+weight.image": 13,
+    "-weight.font": 5,
+    "+weight.font": 9,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 5,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 9
+  },
+  "axe": {
+    "passes": 1675,
+    "violations": 21
+  }
+}

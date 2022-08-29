@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil",
+  "requestedUrl": "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil",
+  "timestamp": 1661811876038,
+  "ranks": {
+    "hundos": 3,
+    "performance": 3,
+    "accessibility": 4,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.39,
+    "accessibility": 1,
+    "bestPractices": 0.92,
+    "seo": 0.92,
+    "total": 323
+  },
+  "firstContentfulPaint": 2779.0260000000007,
+  "firstMeaningfulPaint": 2779.0260000000007,
+  "speedIndex": 12606.195654290244,
+  "largestContentfulPaint": 3523.206000000001,
+  "totalBlockingTime": 2194.999999999998,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 27504.28,
+  "maxPotentialFirstInputDelay": 580,
+  "timeToFirstByte": 1002.2650000000001,
+  "weight": {
+    "summary": "257 requests • 3,547 KiB",
+    "total": 3632197,
+    "image": 220299,
+    "imageCount": 48,
+    "script": 2801750,
+    "scriptCount": 55,
+    "document": 130916,
+    "font": 101400,
+    "fontCount": 10,
+    "stylesheet": 233372,
+    "stylesheetCount": 101,
+    "thirdParty": 3246426,
+    "thirdPartyCount": 144
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 12,
+    "+weight.total": 2,
+    "-weight.document": 12,
+    "+weight.document": 2,
+    "-weight.script": 12,
+    "+weight.script": 2,
+    "-weight.image": 8,
+    "+weight.image": 6,
+    "-weight.font": 1,
+    "+weight.font": 13,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 10,
+    "-totalBlockingTime": 12,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 1273,
+    "violations": 30
+  }
+}

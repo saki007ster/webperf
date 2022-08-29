@@ -1,0 +1,67 @@
+{
+  "url": "https://www.shopthearea.net/",
+  "requestedUrl": "https://www.shopthearea.net/",
+  "timestamp": 1661813591618,
+  "ranks": {
+    "hundos": 2,
+    "performance": 3,
+    "accessibility": 4,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.55,
+    "accessibility": 0.94,
+    "bestPractices": 0.83,
+    "seo": 0.89,
+    "total": 321
+  },
+  "firstContentfulPaint": 1084.868,
+  "firstMeaningfulPaint": 1103.868,
+  "speedIndex": 2414.8809014751387,
+  "largestContentfulPaint": 5189.448673698425,
+  "totalBlockingTime": 336.5,
+  "cumulativeLayoutShift": 0.6106892361111111,
+  "timeToInteractive": 6445.555974105836,
+  "maxPotentialFirstInputDelay": 210,
+  "timeToFirstByte": 35.58699999999999,
+  "weight": {
+    "summary": "49 requests • 1,440 KiB",
+    "total": 1474914,
+    "image": 768813,
+    "imageCount": 11,
+    "script": 517326,
+    "scriptCount": 16,
+    "document": 40546,
+    "font": 95821,
+    "fontCount": 3,
+    "stylesheet": 2352,
+    "stylesheetCount": 2,
+    "thirdParty": 376021,
+    "thirdPartyCount": 14
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 3,
+    "+weight.total": 8,
+    "-weight.document": 4,
+    "+weight.document": 7,
+    "-weight.script": 4,
+    "+weight.script": 7,
+    "-weight.image": 4,
+    "+weight.image": 7,
+    "-weight.font": 2,
+    "+weight.font": 9,
+    "+weight.fontCount": 5,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 3
+  },
+  "axe": {
+    "passes": 550,
+    "violations": 7
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.patrika.com/",
+  "requestedUrl": "https://www.patrika.com/",
+  "timestamp": 1661813797729,
+  "ranks": {
+    "hundos": 8,
+    "performance": 10,
+    "accessibility": 6,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.22,
+    "accessibility": 0.84,
+    "bestPractices": 0.75,
+    "seo": 0.92,
+    "total": 273
+  },
+  "firstContentfulPaint": 2637.284,
+  "firstMeaningfulPaint": 2637.284,
+  "speedIndex": 11582.465462217708,
+  "largestContentfulPaint": 6419.6965,
+  "totalBlockingTime": 4799.000000000001,
+  "cumulativeLayoutShift": 0.12169742033216689,
+  "timeToInteractive": 23876.474500000015,
+  "maxPotentialFirstInputDelay": 498,
+  "timeToFirstByte": 24.544999999999995,
+  "weight": {
+    "summary": "335 requests • 2,913 KiB",
+    "total": 2982723,
+    "image": 434212,
+    "imageCount": 71,
+    "script": 1946115,
+    "scriptCount": 115,
+    "document": 166995,
+    "font": 10775,
+    "fontCount": 1,
+    "stylesheet": 49942,
+    "stylesheetCount": 3,
+    "thirdParty": 2004106,
+    "thirdPartyCount": 283
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 6,
+    "+weight.total": 5,
+    "-weight.document": 9,
+    "+weight.document": 2,
+    "-weight.script": 9,
+    "+weight.script": 2,
+    "-weight.image": 2,
+    "+weight.image": 9,
+    "-weight.font": 1,
+    "+weight.font": 10,
+    "+weight.fontCount": 7,
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 10,
+    "-largestContentfulPaint": 9
+  },
+  "axe": {
+    "passes": 4191,
+    "violations": 82
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.qed42.com/work/enhanced-ux-for-ilao-to-make-legal-language-digitally-accessible",
+  "requestedUrl": "https://www.qed42.com/work/enhanced-ux-for-ilao-to-make-legal-language-digitally-accessible",
+  "timestamp": 1661812990824,
+  "ranks": {
+    "hundos": 3,
+    "performance": 4,
+    "accessibility": 7,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.45,
+    "accessibility": 0.94,
+    "bestPractices": 0.67,
+    "seo": 0.93,
+    "total": 299
+  },
+  "firstContentfulPaint": 2486.2970000000005,
+  "firstMeaningfulPaint": 2486.2970000000005,
+  "speedIndex": 16533.263023040017,
+  "largestContentfulPaint": 3144.441,
+  "totalBlockingTime": 683.0000000000036,
+  "cumulativeLayoutShift": 0.26594970703125004,
+  "timeToInteractive": 30786.71300000001,
+  "maxPotentialFirstInputDelay": 484,
+  "timeToFirstByte": 36.083999999999996,
+  "weight": {
+    "summary": "184 requests • 9,055 KiB",
+    "total": 9271927,
+    "image": 8444510,
+    "imageCount": 35,
+    "script": 546997,
+    "scriptCount": 48,
+    "document": 20160,
+    "font": 112574,
+    "fontCount": 3,
+    "stylesheet": 130872,
+    "stylesheetCount": 81,
+    "thirdParty": 477843,
+    "thirdPartyCount": 51
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 1,
+    "-weight.document": 3,
+    "+weight.document": 5,
+    "-weight.script": 2,
+    "+weight.script": 6,
+    "-weight.image": 7,
+    "+weight.image": 1,
+    "-weight.font": 1,
+    "+weight.font": 7,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 4
+  },
+  "axe": {
+    "passes": 74,
+    "violations": 2
+  }
+}

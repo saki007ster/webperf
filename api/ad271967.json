@@ -1,0 +1,67 @@
+{
+  "url": "https://www.kotaksecurities.com/",
+  "requestedUrl": "https://www.kotaksecurities.com/",
+  "timestamp": 1661813858787,
+  "ranks": {
+    "hundos": 9,
+    "performance": 5,
+    "accessibility": 8,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.39,
+    "accessibility": 0.79,
+    "bestPractices": 0.58,
+    "seo": 0.79,
+    "total": 255
+  },
+  "firstContentfulPaint": 5137.978999999999,
+  "firstMeaningfulPaint": 5212.978999999999,
+  "speedIndex": 6620.03619582584,
+  "largestContentfulPaint": 5581.456999999999,
+  "totalBlockingTime": 684.9790000000007,
+  "cumulativeLayoutShift": 0.024172049098544646,
+  "timeToInteractive": 11580.619000000002,
+  "maxPotentialFirstInputDelay": 442.99999999999955,
+  "timeToFirstByte": 232.79300000000012,
+  "weight": {
+    "summary": "78 requests • 1,574 KiB",
+    "total": 1611437,
+    "image": 742508,
+    "imageCount": 37,
+    "script": 457379,
+    "scriptCount": 17,
+    "document": 128330,
+    "font": 102753,
+    "fontCount": 7,
+    "stylesheet": 179937,
+    "stylesheetCount": 8,
+    "thirdParty": 769921,
+    "thirdPartyCount": 40
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 6,
+    "-weight.document": 8,
+    "+weight.document": 3,
+    "-weight.script": 3,
+    "+weight.script": 8,
+    "-weight.image": 3,
+    "+weight.image": 8,
+    "-weight.font": 3,
+    "+weight.font": 8,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 9,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 5
+  },
+  "axe": {
+    "passes": 1273,
+    "violations": 182
+  }
+}

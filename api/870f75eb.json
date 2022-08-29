@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/exec-ed/programs/lgbtq-executive-leadership-program",
+  "requestedUrl": "https://www.gsb.stanford.edu/exec-ed/programs/lgbtq-executive-leadership-program",
+  "timestamp": 1661811916777,
+  "ranks": {
+    "hundos": 8,
+    "performance": 10,
+    "accessibility": 8,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.29,
+    "accessibility": 0.96,
+    "bestPractices": 0.92,
+    "seo": 0.84,
+    "total": 301
+  },
+  "firstContentfulPaint": 2944.8759999999993,
+  "firstMeaningfulPaint": 2944.8759999999993,
+  "speedIndex": 10375.71925826517,
+  "largestContentfulPaint": 4544.241499999998,
+  "totalBlockingTime": 2138,
+  "cumulativeLayoutShift": 0.13828125,
+  "timeToInteractive": 24330.839999999997,
+  "maxPotentialFirstInputDelay": 1158,
+  "timeToFirstByte": 332.09,
+  "weight": {
+    "summary": "240 requests • 3,324 KiB",
+    "total": 3403958,
+    "image": 480347,
+    "imageCount": 47,
+    "script": 2540020,
+    "scriptCount": 51,
+    "document": 118099,
+    "font": 101490,
+    "fontCount": 10,
+    "stylesheet": 152790,
+    "stylesheetCount": 97,
+    "thirdParty": 2827616,
+    "thirdPartyCount": 118
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 11,
+    "+weight.total": 3,
+    "-weight.document": 8,
+    "+weight.document": 6,
+    "-weight.script": 11,
+    "+weight.script": 3,
+    "-weight.image": 12,
+    "+weight.image": 2,
+    "-weight.font": 3,
+    "+weight.font": 11,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 9,
+    "-totalBlockingTime": 11,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "passes": 1222,
+    "violations": 31
+  }
+}

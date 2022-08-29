@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gsb.stanford.edu/insights/stereotyping-makes-people-more-likely-act-badly",
+  "requestedUrl": "https://www.gsb.stanford.edu/insights/stereotyping-makes-people-more-likely-act-badly",
+  "timestamp": 1661812427613,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 6,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.48,
+    "accessibility": 0.99,
+    "bestPractices": 0.92,
+    "seo": 0.85,
+    "total": 324
+  },
+  "firstContentfulPaint": 2779.654000000001,
+  "firstMeaningfulPaint": 2779.654000000001,
+  "speedIndex": 7555.554033688708,
+  "largestContentfulPaint": 3759.3340000000017,
+  "totalBlockingTime": 837.5864999999994,
+  "cumulativeLayoutShift": 0.022273763020833334,
+  "timeToInteractive": 16339.235499999999,
+  "maxPotentialFirstInputDelay": 589,
+  "timeToFirstByte": 13.850999999999999,
+  "weight": {
+    "summary": "218 requests • 1,823 KiB",
+    "total": 1867048,
+    "image": 86199,
+    "imageCount": 40,
+    "script": 1405750,
+    "scriptCount": 43,
+    "document": 103585,
+    "font": 125709,
+    "fontCount": 6,
+    "stylesheet": 134455,
+    "stylesheetCount": 96,
+    "thirdParty": 1373797,
+    "thirdPartyCount": 98
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 9,
+    "-weight.document": 2,
+    "+weight.document": 12,
+    "-weight.script": 5,
+    "+weight.script": 9,
+    "-weight.image": 5,
+    "+weight.image": 9,
+    "-weight.font": 6,
+    "+weight.font": 8,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 1204,
+    "violations": 24
+  }
+}
