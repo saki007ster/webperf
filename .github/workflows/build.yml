@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - gh-pages
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -24,7 +26,6 @@ jobs:
       - name: Install dependencies & build
         run: |
           npm ci
-          npm run test-pages
           npm run build-production
 
       - name: Deploy
