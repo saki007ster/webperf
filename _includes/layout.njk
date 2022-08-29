@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>WebPerf</title>
+		<meta name="description" content="Benchmark web pages over time.">
+		<link rel="stylesheet" href="{{ '/style.css' | url }}">
+		<script>
+		document.documentElement.classList.add("js");
+		</script>
+	</head>
+	<body>
+		<h1 class="webperf-hed"><a href="{{ '/' | url }}">WebPerf</a>{% if vertical %}:{{ vertical }}{% endif %}</h1>
+		<p class="webperf-subhed">
+			Benchmark {{ sites[vertical].description or "web pages" }} over time.
+			{%- if sites[vertical].unordered %}
+				Results for this category are unordered.
+			{%- endif %}
+			{%- if maxResults %}
+				Updates <em>at most</em> once every {{ sites[vertical].options.frequency or 60 }} minutes. Only the last {{ maxResults }} run{% if maxResults != 1 %}s{% endif %} (and the oldest run) are shown.
+			{%- endif %}
+		</p>
+
+		{{ content | safe }}
+
+		<footer>
+			Built by Saket Kumar. Copyright Qed42 @ 2021
+		</footer>
+
+		<script defer src="{{ '/chartist.js' | url }}"></script>
+		<script defer src="{{ '/script.js' | url }}"></script>
+	</body>
+</html>
